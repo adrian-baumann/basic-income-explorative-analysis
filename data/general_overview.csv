@@ -1,8 +1,8 @@
 info,value
-raffles_amount,52
-CH,120218
-usertype: User,1338040
-basic_incomes_eur,5328000
-winner: User,376
-winner: Child,68
-usertype: Child,225771
+Adults users,1338040
+Child users,225771
+Amount Crowdhörnchen,120218
+Total amount raffles,52
+Adult recipients,376
+Child recipients,68
+Sum basic incomes [€],5328000
