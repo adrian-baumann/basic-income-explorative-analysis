@@ -1,6 +1,6 @@
-# Explorative Analysis of Mein Grundeinkommen e.V. and its Universal Basic Income Raffle
+# Explorative Analysis of Mein Grundeinkommen e.V. and its Unconditional Basic Income Raffle
 
-This project is an explorative data analysis of the database of the non-profit organisation [Mein Grundeinkommen e.V.](https://www.mein-grundeinkommen.de/) which is pushing the debate about universal basic income in Germany by crowdfunding and raffling basic incomes.<br>
+This project is an explorative data analysis of the database of the non-profit organisation [Mein Grundeinkommen e.V.](https://www.mein-grundeinkommen.de/) which is pushing the debate about unconditional basic income in Germany by crowdfunding and raffling basic incomes.<br>
 The Jupyter Notebook show a quantitative analysis of the user base growth as well as detailed analyses of specific questions concerning user behaviour.<br>
 This project is meant as purely informative without any intents of advertising on behalf of Mein Grundeinkommen e.V.<br>
 
