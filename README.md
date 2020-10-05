@@ -20,12 +20,14 @@ As this is a real user database I did all aggregations and analyses beforehand a
 
 ## Content
 
-Mein Grundeinkommen e.V. is a non-profit organisation trying to advance the discussion and knowledge about the unconditional basic income (ubi) in Germany by raffling off crowdfunded ubi's. 
+Mein Grundeinkommen e.V. is a non-profit organisation trying to advance the discussion and knowledge about the unconditional basic income and to study its social impact on our society in Germany by raffling off crowdfunded unconditional basic incomes. 
 
-As of Nov.'19 Mein Grundeinkommen did not have the resources to do in-depth Data Analysis. Thus my analysis aims to answer some key questions to develop an understanding of the users and donors of Mein Grundeinkommen e.V., for example:
+As of Nov.'19 Mein Grundeinkommen did not have the resources to do in-depth Data Analysis. Thus my analysis aims to answer some key questions to develop an understanding of the users and donors of Mein Grundeinkommen e.V.
+Examples of these questions are:
 - When do people sign up as users/become donors?
 - Are certain people more engaged in the idea of a unconditional basic income than others?
 - How much do people donate? Is this all depended on a few big donors?
+
 
 Disclaimer: This portfolio project is meant to be purely informative without any intents of advertising on behalf of Mein Grundeinkommen e.V.<br>
 
