@@ -1,6 +1,6 @@
 # Explorative Analysis of Mein Grundeinkommen e.V. and its Unconditional Basic Income Raffle
 
-### **[Click here to view the project](https://nbviewer.jupyter.org/github/adrian-baumann/basic-income-explorative-analysis/blob/master/analysis.ipynb?flush_cache=false)**<br>
+### **[Click here to view the project](https://nbviewer.jupyter.org/github/adrian-baumann/basic-income-explorative-analysis/blob/master/analysis.ipynb)**<br>
 
 Hi! I'm Adrian and this is a portfolio project I did in collaboration with the non-profit organisation [Mein Grundeinkommen e.V.](https://www.mein-grundeinkommen.de/) to showcase my skills as a Data Analyst.
 
